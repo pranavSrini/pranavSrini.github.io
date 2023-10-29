@@ -21,10 +21,10 @@ author: Pranav Srinivasan
 
 navbar-links:
   About Me: "aboutme"
-  Experiences: 
-  Projects:
-  Research:
-  Contact:
+  Experiences: "experiences"
+  Projects: "Projects"
+  Research: "research"
+  Contact: "contact"
   
 
 ################
