@@ -24,5 +24,11 @@ LoanForecast
  - Creating a novel DCGAN to synthetically reconstruct scans of subsurface rocks in Tensorflow, Scikit-Learn and OpenCV
  - Reinforcing with Bayesian Search hyperparameter optimization; Architecting as a Docker Image and deploying to AWS EC2
 
-Paper “Synthetically Reconstructing Greyscale Scans of Sandstone, Carbonate, and Coal using Generative Adversarial Networks and Bayesian Optimization” in development
+---
+[Dermanostix](https://github.com/pranavSrini/dermanostix)
+---
+ - Created a computer vision web-app using Flask, PyTorch, OpenCV, and Scikit-Learn to diagnose skin cancer real-time
+ - Integrates a Haar-Cascade object classier with a ResNet, VGG16, and DenseNet161 ensemble for image analysis
+ - Implemented a T-SNE dimensionality reduction algorithm and confusion matrix for feature visualization post-development
+ - Partnered with Baylor Scott & White Health, STEAMism, and the 1517 Fund for project demos, seed funding and expansion
 
