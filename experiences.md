@@ -1,6 +1,8 @@
-Experiences
+---
+layout: page
+title: Experiences
 
-
+---
 Toyota - Machine Learning Engineer Intern					    	                   May 2023 - Aug 2023
 ---
  - Wrote a novel clustering algorithm in conjunction with UMAP dimensionality reduction for language outlier detection
