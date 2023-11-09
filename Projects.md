@@ -3,8 +3,6 @@ layout: page
 title: Projects
 
 ---
-
----
 LonghornProtector                      
 ---							
 Implemented a web-scraping tool that leveraged BeautifulSoup and SQLAlchemy to amalgamate UT crime data
