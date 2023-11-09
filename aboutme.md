@@ -13,4 +13,10 @@ This page has all my experiences, projects, and research, as well as ways to con
   <img width="360" height="300" src="https://github.com/pranavSrini/pranavSrini.github.io/assets/26912795/12c199e9-7f1c-40b4-83c3-d7f7c6b6d574">
 </p>
 
+<div class="reveal">
+  <div class="aboutme">
+    <section data-markdown="aboutme.md" data-background-image="/assets/img/longorn.png"></section>
+  </div>
+</div>
+
 
