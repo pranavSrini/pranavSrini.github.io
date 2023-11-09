@@ -1,6 +1,8 @@
 
+
+
 ---
-subtitle: Dermanostix
+Dermanostix
 ---
 
 P. Srinivasan and V. Srinivasan, "A Comprehensive Diagnostic Tool for Skin Cancer Using a Multifaceted Computer Vision Approach," 
@@ -8,7 +10,7 @@ P. Srinivasan and V. Srinivasan, "A Comprehensive Diagnostic Tool for Skin Cance
 10.1109/ISCMI51676.2020.9311557.
 
 ---
-subtitle: GeoGAN
+GeoGAN
 ---
 
 “Synthetically Reconstructing Greyscale Scans of Sandstone, Carbonate, and Coal using Generative
