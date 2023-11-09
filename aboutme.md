@@ -10,7 +10,7 @@ This page has all my experiences, projects, and research, as well as ways to con
 
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/pranavSrini/pranavSrini.github.io/assets/26912795/12c199e9-7f1c-40b4-83c3-d7f7c6b6d574">
+  <img width="360" height="300" src="https://github.com/pranavSrini/pranavSrini.github.io/assets/26912795/12c199e9-7f1c-40b4-83c3-d7f7c6b6d574">
 </p>
 
 
